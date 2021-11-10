@@ -18,9 +18,6 @@
       }
     },
     "BankService": {
-      "Bamk" "Service",
-      "API": null,
-
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
